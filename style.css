@@ -129,6 +129,11 @@ body {
     font-family: var(--ff-lexend-deca);
 }
 
+ul {
+    list-style-type: none;
+    padding: 0;
+}
+
 .image {
     min-width: 50%;
     position: relative;
