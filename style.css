@@ -154,6 +154,17 @@ img {
     opacity: 0.45;
 }
 
+/* Another way to color the image */
+/*
+.image {
+    background-color: var(--clr-primary-soft-violet);
+}
+.image img {
+    mix-blend-mode: multiply;
+    opacity: 0.75;
+}
+*/
+
 @media only screen and (max-width: 900px) {
    .card {
     flex-wrap: wrap-reverse;
